@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <!--
-**Azyzraissi/Azyzraissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**azyzraw/azyzraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hey there 👋
+
+Azyz. You can find me on [Threads](https://www.threads.net/@azyz.raw) or [Instagram](https://www.instagram.com/azyz.raw/), defending the MCU, ranting about the high price of streaming services, or criticizing the gaming industry.
+
+- 😄 Pronouns: he/him
+- 👔 Brand Designer/Web Developer/Photographer by day.
+- 🕴🏻 Software Tinkerer, Gamer, Film-Addict by night.
+- 📍 Paris, France, but my heart is in Palestine 🇵🇸.
+- 🌱 Currently learning way too many things to list here.
+- 📫 Spam me on [Threads](https://www.threads.net/@azyz.raw).
+- ⚡ Fun fact about me: I'm a Tetris 99 competitive player. 
+
+I've been using macOS since 2018 and Apple Silicon since day one for everything—work, gaming, development, art, and photography.
+
+Talk to me Arabic, English, or French. 🌍
+
+### Always open for work  
+📧 Reach me here
+```bash
+raissi.aziz@gmail.com
