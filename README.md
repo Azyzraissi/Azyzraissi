@@ -25,11 +25,10 @@ Azyz. You can find me on [Threads](https://www.threads.net/@azyz.raw) or [Instag
 - 📫 Spam me on [Threads](https://www.threads.net/@azyz.raw).
 - ⚡ Fun fact about me: I'm a Tetris 99 competitive player. 
 
-I've been using macOS since 2018 and Apple Silicon since day one for everything—work, gaming, development, art, and photography.
+Been using macOS since 2018 and Apple Silicon since day one for everything—work, gaming, development, art, and photography.
 
-Talk to me Arabic, English, or French. 🌍
+Speak Arabic, English, or French. 🌍
 
-### Always open for work  
-📧 Reach me here
+📧 Need help about one of my projects or have a work opportunity? Reach me here :
 ```bash
 raissi.aziz@gmail.com
